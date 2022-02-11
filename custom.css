@@ -1,0 +1,232 @@
+
+body {
+		
+		background-image: url(img/patternbg.jpg);
+		background-color:gray;
+		height: 2000px;
+	}
+
+#content {
+	margin: 0px auto;
+	padding: 0px ;		
+
+	}
+
+	
+#header {
+		margin: 0 auto;
+		padding: 0px;
+
+
+
+		border-radius: 20px;
+		height: 100px;
+		width: 1300px;
+		background-color: #cfe4f4;
+		border-bottom: 8px solid #547db2;
+		border-left: 10px solid #547db2;
+		border-right: 10px solid #547db2;
+		
+	}
+	#logo {
+		cursor: pointer;
+		padding: 0px 0px 0px 40px;
+		font-size: 20px;
+		}
+		#logo h1 {
+		color: #547db2;
+		padding: 18px 10px 0px 10px;
+		
+
+		}
+
+	.contact {
+		
+		margin-top:-95px;
+		float:right;
+		padding:0px 90px 0px 0px;
+	}
+	.contact p {
+		cursor: pointer;
+		font-size: 14px;
+		margin-bottom: -10px;
+		letter-spacing:0px;
+		padding-left:10px;
+			
+		}
+
+/* Slider  */
+
+.slider {
+	margin-top: 15px;
+	overflow: hidden;
+	border-radius: 20px;
+	height: 400px;
+	width: 1330px;
+	background-color:#547db2;
+	margin-left:80px;
+}
+
+.mySlides {display:none;}
+
+
+
+/* Services  */
+
+#bikes {
+	margin-top:15px;
+	height: 2300px;
+	width: 1330px;
+	background-color:#cfe4f4;
+	margin-left:80px;
+	border-radius: 20px;
+}
+
+			.center {
+				margin: 0 auto;
+				padding: 0px;
+				height: auto;
+				width: 300px;
+				text-align: center;
+			}
+			.center h1 {
+				padding:10px;
+				border-bottom: 4px solid white;
+				border-radius: 20px;
+			}
+			.center2 {
+				margin: 0 auto;
+				padding: 0px;
+				height: auto;
+				width: 800px;
+				text-align: center;
+			}
+
+
+/* Bikes Rows   */
+
+
+		.rows{
+
+				padding-top: 20px;
+		}
+		.row {
+		
+
+
+		}
+
+
+		.bgbike {
+			margin-left:25px;
+			margin-top:35px;
+			float:left;
+			width: 300px;
+			text-align:center;
+			box-shadow:0px 0.9px 2px #547dd2;
+			transition: all 0.3s;
+		}
+		.head:hover img {
+			 transform: scale(1.1);
+
+		}
+		.head {
+			overflow: hidden;
+			color:white;
+			background-color:#547db2;
+
+		}
+		.head h1 {
+			font-size:20px;
+		}
+		.bottom {
+			padding:5px;
+		}
+		.bgcard:hover {
+				
+		}
+
+			.price{
+				margin-left: 8px;
+				width: 100px;
+				background-color: white;
+				padding: 5px 10px 5px 10px;
+				border-radius: 30px;
+				box-shadow:0px 0.9px 2px #cfe4f4;
+			}
+
+/* Section Devider  */
+
+hr {
+
+	width: 80%;
+	height: 5px;
+	background-color: #cfe4f4;
+	border:none;
+
+/* Kawasaki Bikes  */
+
+}
+
+#minibikes {
+	margin-top:15px;
+	height: 1610px;
+	width: 1330px;
+	background-color:#cfe4f4;
+	border-bottom: 8px solid  #547db2;
+	margin-left:80px;
+	border-radius: 20px;
+}
+
+
+/* Footer  */
+
+
+.footer {
+background: linear-gradient(#cfe4f4 30%, #547db2);
+
+	border-radius: 40px;
+	margin-top:15px;
+	margin-bottom:15px;
+	width: 1330px;
+	height:200px;
+	background-color:#ffc03a;
+	border-bottom: 18px solid #2e4f79;
+	margin-left:80px;
+}
+	.footer .seprline {
+		
+		width:100%;    
+		height:5px;
+		
+		
+	}
+	.icon {
+		padding:50px 0px 0px 510px;
+		
+		
+	}
+	.icon li:hover {
+		 box-shadow:0px 0px 5px  white;
+	 }
+	.icon ul li {
+
+		border-radius: 30px;
+		font-size:30px;
+		list-style:none;
+		display:inline;
+		padding-left:10px;	
+	}
+	i {
+
+		color:#dc6801;
+	}
+	.copyright {
+		padding:0px 0px 0px 510px;
+	}
+	#cent {
+			padding:0px 0px 0px 20px;
+	}
+	h3{
+		color:#547db2;
+	}
