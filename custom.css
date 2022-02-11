@@ -64,7 +64,7 @@ body {
 	height: 400px;
 	width: 1330px;
 	background-color:#547db2;
-	margin-left:30px;
+/* 	margin-left:30px; */
 }
 
 .mySlides {display:none;}
@@ -78,7 +78,7 @@ body {
 	height: 2300px;
 	width: 1330px;
 	background-color:#cfe4f4;
-	margin-left:30px;
+/* 	margin-left:30px; */
 	border-radius: 20px;
 }
 
@@ -151,7 +151,7 @@ body {
 				width: 100px;
 				background-color: white;
 				padding: 5px 10px 5px 10px;
-				border-radius: 30px;
+/* 				border-radius: 30px; */
 				box-shadow:0px 0.9px 2px #cfe4f4;
 			}
 
@@ -174,7 +174,7 @@ hr {
 	width: 1330px;
 	background-color:#cfe4f4;
 	border-bottom: 8px solid  #547db2;
-	margin-left:80px;
+/* 	margin-left:80px; */
 	border-radius: 20px;
 }
 
@@ -192,7 +192,7 @@ background: linear-gradient(#cfe4f4 30%, #547db2);
 	height:200px;
 	background-color:#ffc03a;
 	border-bottom: 18px solid #2e4f79;
-	margin-left:30px;
+/* 	margin-left:30px; */
 }
 	.footer .seprline {
 		
