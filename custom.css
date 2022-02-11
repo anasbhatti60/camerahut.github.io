@@ -21,7 +21,7 @@ body {
 
 		border-radius: 20px;
 		height: 100px;
-		width: 1200px;
+		width: 1300px;
 		background-color: #cfe4f4;
 		border-bottom: 8px solid #547db2;
 		border-left: 10px solid #547db2;
@@ -62,11 +62,9 @@ body {
 	overflow: hidden;
 	border-radius: 20px;
 	height: 400px;
-	width: 1230px;
+	width: 1315px;
 	background-color:#547db2;
-	margin-left:50px;
-
-
+	margin-left:10px;
 }
 
 .mySlides {display:none;}
@@ -78,10 +76,9 @@ body {
 #bikes {
 	margin-top:15px;
 	height: 2300px;
-	width: 1330px;
+	width: 1315px;
 	background-color:#cfe4f4;
-	margin-left:20px;
-	margin-left:50px;
+	margin-left:10px;
 	border-radius: 20px;
 }
 
@@ -174,11 +171,10 @@ hr {
 #minibikes {
 	margin-top:15px;
 	height: 1610px;
-	width: 1230px;
+	width: 1315px;
 	background-color:#cfe4f4;
 	border-bottom: 8px solid  #547db2;
-	margin-left:20px;
-	margin-left:50px;
+	margin-left:10px;
 	border-radius: 20px;
 }
 
@@ -192,11 +188,11 @@ background: linear-gradient(#cfe4f4 30%, #547db2);
 	border-radius: 40px;
 	margin-top:15px;
 	margin-bottom:15px;
-	width: 1230px;
+	width: 1315px;
 	height:200px;
 	background-color:#ffc03a;
 	border-bottom: 18px solid #2e4f79;
-	margin-left:50px;
+	margin-left:10px;
 }
 	.footer .seprline {
 		
